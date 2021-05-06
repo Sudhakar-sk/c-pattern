@@ -1,0 +1,16 @@
+D:\c#\pattern\bin\Debug\net5.0\pattern.exe
+D:\c#\pattern\bin\Debug\net5.0\pattern.deps.json
+D:\c#\pattern\bin\Debug\net5.0\pattern.runtimeconfig.json
+D:\c#\pattern\bin\Debug\net5.0\pattern.runtimeconfig.dev.json
+D:\c#\pattern\bin\Debug\net5.0\pattern.dll
+D:\c#\pattern\bin\Debug\net5.0\ref\pattern.dll
+D:\c#\pattern\bin\Debug\net5.0\pattern.pdb
+D:\c#\pattern\obj\Debug\net5.0\pattern.csprojAssemblyReference.cache
+D:\c#\pattern\obj\Debug\net5.0\pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\pattern\obj\Debug\net5.0\pattern.AssemblyInfoInputs.cache
+D:\c#\pattern\obj\Debug\net5.0\pattern.AssemblyInfo.cs
+D:\c#\pattern\obj\Debug\net5.0\pattern.csproj.CoreCompileInputs.cache
+D:\c#\pattern\obj\Debug\net5.0\pattern.dll
+D:\c#\pattern\obj\Debug\net5.0\ref\pattern.dll
+D:\c#\pattern\obj\Debug\net5.0\pattern.pdb
+D:\c#\pattern\obj\Debug\net5.0\pattern.genruntimeconfig.cache
